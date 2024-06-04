@@ -1,4 +1,4 @@
-# Question 2: Design a Fixed Player Online Game (Chess)
+# Question 2: Design a Fixed Player Online Game (Snake & Ladder)
 
 ## Assumptions
 
